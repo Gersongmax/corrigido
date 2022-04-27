@@ -47,5 +47,10 @@ public class Brecho {
 		media = media / i;
 		System.out.println("Media de Valores = " + media);
 	}
+<<<<<<< HEAD
 //outro comentario
+=======
+	//outro comentario
+
+>>>>>>> refazer
 }
